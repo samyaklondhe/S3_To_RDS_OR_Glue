@@ -1,8 +1,3 @@
-Here’s the complete detailed README.md for Task 5. You can copy-paste it directly into your GitHub repo.
-
-
----
-
 Data Ingestion from S3 to RDS with Fallback to AWS Glue
 
 Project Overview
@@ -267,8 +262,3 @@ This project demonstrates a robust ETL pipeline using AWS services. It prioritiz
 
 
 ---
-
-Would you like me to also give you the exact GitHub repo folder structure (so you can create it directly)?
-
-Would you like me to zip the script + Dockerfile + requirements.txt + README.md for uploading?
-
